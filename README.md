@@ -1,1 +1,3 @@
-MAIN FOLDER
+# MyPersonalBlog
+Learn and contribute to make our own personal blog
+The website is being made by flask.
